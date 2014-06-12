@@ -23,7 +23,7 @@ $date_needed_parts = array(
 );
 
 if (isset($_POST['submit'])) {
-	$order_id = $Orders->addOrder($widget_quantity, $widget_type, $widget_color);
+	$order_id = $Orders->addOrder($widget_quantity, $widget_type, $widget_color, $date_needed);
 }
 
 ?>
