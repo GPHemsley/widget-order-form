@@ -7,8 +7,8 @@
 
 == Installation ==
 
-# Create database from `doc/database.sql`.
+# Create database from <code>doc/database.sql</code>.
 # Deploy files to webserver.
-# Create `cfg/cfg.custom.php` using `cfg/cfg.default.php` as a model.
+# Create <code>cfg/cfg.custom.php</code> using <code>cfg/cfg.default.php</code> as a model.
 # Visit the index page in a Web browser.
 # Commence ordering of widgets!
