@@ -1,0 +1,14 @@
+= Widget Order Form =
+
+== Requirements ==
+
+* PHP 5.3+ (tested on 5.5.9)
+* MySQL 5.5+ (tested on 5.5.37)
+
+== Installation ==
+
+# Create database from `doc/database.sql`.
+# Deploy files to webserver.
+# Create `cfg/cfg.custom.php` using `cfg/cfg.default.php` as a model.
+# Visit the index page in a Web browser.
+# Commence ordering of widgets!
